@@ -14,8 +14,8 @@
 ## Files
 - `finalExam.py` – the program
 - `final.csv` – the data file after the run (9 entries)
-- `final.xlsx` – the Excel workbook with the data and pie chart, made by the program
-- `screenshots/` – IDLE output, Excel pie chart, and the vertical bar graph
+
+Running the program also creates `final.xlsx` (the data plus the pie chart) in the same folder. The screenshots of the IDLE output, the Excel pie chart, and the vertical bar graph are in my Word document submission.
 
 ## How to run
 ```
